@@ -16,5 +16,5 @@ int main()
 	int a,b;
 	cout<<"podaj a"; cin>>a;
 	cout<<"podaj b"; cin>>b;
-	cout<<compraison(a,b)<<end1;
+	cout<<comparison(a,b)<<end1;
 	return 0;

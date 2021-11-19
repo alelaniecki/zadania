@@ -11,6 +11,6 @@ auto main()->int
 	ascii[i]=i;
 	cout<<ascii[i];
 	}
-	cout<<"\n";
+	
 return 0;
 }
